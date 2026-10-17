@@ -31,7 +31,7 @@ The drawing is hidden for people who ask their system for reduced transparency. 
 
 **Settings → Appearance → Themes → Manage**, search for **Konban**, then **Install and use**.
 
-The three drawings are built into the theme file, so it's larger than most themes (about 3.4 MB). Only the drawing you choose is shown.
+The three drawings are built into the theme file, so it's larger than most themes (about 0.7 MB). Only the drawing you choose is shown.
 
 ## Resources used
 
