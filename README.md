@@ -45,4 +45,4 @@ If you enjoy it, you can [buy me a coffee](https://buymeacoffee.com/ashotis). Fo
 
 ## License
 
-Theme code: [MIT](LICENSE) © AshOtis. Background drawings: made with World Gacha, see Resources used.
+Theme code: [GNU AGPL v3 or later](LICENSE) © AshOtis. Background drawings: made with World Gacha, see Resources used.
